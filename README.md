@@ -2,7 +2,7 @@
 
 A ideia do projeto era desenvolver uma página que contem vários links juntos de forma organizada, utilizando em seu código clean code, acessibilidade para os leitores de tela e responsividade que se adapta em todas as telas (TV, Desktop, Tablet e Celular). Com um sistema de Dark Mode para o descanso visual de tela dark (preta).
 
- >  [Link para o projeto!](https://herculesmachado.github.io/social-links/ target="_blank")
+ >  [Link para o projeto!](https://herculesmachado.github.io/social-links/)
 
 ## Tecnologias usadas para desenvolver 👨‍💻
 **Foram usadas:**
